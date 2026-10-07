@@ -1,16 +1,232 @@
 ## Hi there 👋
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
-<!--
-**yahyaraa/yahyaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yahya%20Mezni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Tunisia&descSize=20&descAlignY=60" width="100%" alt="Header"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/yahyaraa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+complete+web+apps+end+to+end;Healthcare+%C2%B7+Logistics+%C2%B7+Public+Transport;MERN+Stack+Specialist;Certified+%26+Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
+
+<a href="https://www.linkedin.com/in/yahya-mezni-74584a340"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/yahyaraa"><img src="https://img.shields.io/badge/GitHub-yahyaraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=yahyaraa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a developer completing an internship at a company in Tunisia 🇹🇳. I build complete web applications **end to end**: architecture, REST APIs, user interfaces, and production deployment.
+
+- 🏥 Delivered **professional apps** in healthcare, logistics, and public transport
+- 🔭 Specialized in the **MERN stack**
+- 🧱 Authentication, role-based access, and real-time features
+- 📐 I document my work: UML, Agile/Scrum, technical reports
+- 🏅 Holder of multiple **professional certifications**
+- 🌍 Working languages: **Arabic · French · English**
+
+</td>
+<td width="38%" valign="top" align="center">
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🎯 **Focus** | Full-Stack Web |
+| 🧰 **Stack** | MERN |
+| 🏗️ **Projects** | 5+ shipped |
+| 🗣️ **Languages** | AR · FR · EN |
+| 📍 **Based in** | Tunisia |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core: MERN**
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" alt="MERN"/>
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vite&perline=6" alt="Languages"/>
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&perline=5" alt="Tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Atlas"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Assembly_8086-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+<img src="https://img.shields.io/badge/UML-Agile_Scrum-FF6F00?style=for-the-badge" alt="UML & Agile"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Medical Appointment App
+`Healthcare` · `Freelance` · `Back-End`
+
+Professional medical application built with an independent freelance team (Jan–Jun 2026).
+
+- 📅 Appointment booking
+- 🛠️ Admin management
+- 💊 Treatment tracking
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Shipping App
+`Logistics` · `Professional`
+
+A professional shipping application built as part of my professional work.
+
+<!-- TODO: add 3 bullets with the real features, for example:
+- 🚚 feature one
+- 📍 feature two
+- 📊 feature three
+and list the stack used -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 Transtu
+`Public Transport` · `MERN`
+
+Ticketing platform modeled on the real Tunisian TRANSTU network.
+
+- 🧭 BFS-based route search
+- 🔐 JWT multi-role auth and dashboards
+- 🔔 Socket.io real-time notifications
+- ☁️ Render + Vercel + MongoDB Atlas
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ TaskFlow
+`Productivity` · `MERN`
+
+Task and project manager built from a detailed spec.
+
+- 🗂️ Kanban-style board
+- 🔐 JWT auth and full CRUD
+- 📊 Admin dashboard
+- 🎨 Custom CSS design system, no UI framework
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚖️ Tunisian Digital Law
+`Legal Tech` · `Arabic`
+
+Interactive Arabic web app making Tunisian digital legislation easier to explore: Decree 54, Data Protection Law (No. 63/2004), and Access to Information Law (No. 22/2016).
+
+</td>
+</tr>
+</table>
+
+<!-- OPTIONAL: pin cards for your best repos. Replace REPO_NAME, then remove the comment markers.
+<div align="center">
+  <a href="https://github.com/yahyaraa/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yahyaraa&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="Repo"/></a>
+  <a href="https://github.com/yahyaraa/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yahyaraa&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo"/></a>
+</div>
 -->
+
+---
+
+## 🧩 How I Build
+
+```mermaid
+flowchart LR
+    A[📐 Plan<br/>UML + Scrum] --> B[🧱 Backend<br/>Node · Express · MongoDB]
+    B --> C[🎨 Frontend<br/>React · Vite]
+    C --> D[🔐 Auth & Roles<br/>JWT]
+    D --> E[☁️ Deploy<br/>Render · Vercel · Atlas]
+    E --> F[📝 Document]
+```
+
+---
+
+<!-- CERTIFICATIONS: fill in, then remove the opening and closing comment markers so the section shows.
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Certification name | Issuer | 2026 |
+| Certification name | Issuer | 2026 |
+| Certification name | Issuer | 2025 |
+
+---
+-->
+
+## 📚 Learning & Technical Writing
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
+
+- 📘 French-language guide to **80x86 assembly**: architecture, memory segmentation, registers, DOS interrupts, with diagrams and exercises
+- 📐 UML modeling, Agile/Scrum planning, and internship reporting
+- 🐘 Exploring **Laravel** (MVC, Eloquent ORM) alongside the MERN stack
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yahyaraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaraa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=yahyaraa&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyaraa&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **internships, collaborations, and exciting projects**. Let's build something great together!
+
+<a href="https://www.linkedin.com/in/yahya-mezni-74584a340"><img src="https://img.shields.io/badge/LinkedIn-Yahya_Mezni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/yahyaraa"><img src="https://img.shields.io/badge/GitHub-yahyaraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+⭐ *If you like my work, explore my repositories and leave a star!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
