@@ -178,13 +178,18 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yahyaraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" width="100%"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=yahyaraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&line_height=22" alt="Stats"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaraa&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=5" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaraa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%"/>
+<details>
+<summary><b>More activity</b></summary>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=yahyaraa&theme=tokyonight&hide_border=true" alt="Streak" width="100%"/>
+<img height="120" src="https://streak-stats.demolab.com/?user=yahyaraa&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyaraa&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyaraa&theme=tokyo-night&hide_border=true&area=true&height=200" alt="Activity graph" width="100%"/>
+
+</details>
 
 </div>
 
