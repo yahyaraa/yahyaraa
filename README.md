@@ -2,16 +2,17 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yahya%20Mezni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Tunisia&descSize=20&descAlignY=60" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yahya%20Mezni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certified%20Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Java%20%C2%B7%20Tunisia&descSize=20&descAlignY=60" width="100%" alt="Header"/>
 
 <a href="https://github.com/yahyaraa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+complete+web+apps+end+to+end;Healthcare+%C2%B7+Logistics+%C2%B7+Public+Transport;MERN+Stack+Specialist;Certified+%26+Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Certified+Full-Stack+Developer;MERN+%C2%B7+Java+%C2%B7+C+%C2%B7+Python;Healthcare+%C2%B7+Logistics+%C2%B7+Public+Transport;Building+complete+web+apps+end+to+end+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/yahya-mezni-74584a340"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/yahyaraa"><img src="https://img.shields.io/badge/GitHub-yahyaraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/%F0%9F%8F%85-Certified_in_my_field-success?style=for-the-badge" alt="Certified"/>
 <img src="https://komarev.com/ghpvc/?username=yahyaraa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -27,10 +28,11 @@
 I'm a developer completing an internship at a company in Tunisia 🇹🇳. I build complete web applications **end to end**: architecture, REST APIs, user interfaces, and production deployment.
 
 - 🏥 Delivered **professional apps** in healthcare, logistics, and public transport
+- 🏅 **Certified in my field**, backed by multiple professional certifications
 - 🔭 Specialized in the **MERN stack**
+- ☕ Also developing in **Java** (and its frameworks), **C**, and **Python**
 - 🧱 Authentication, role-based access, and real-time features
 - 📐 I document my work: UML, Agile/Scrum, technical reports
-- 🏅 Holder of multiple **professional certifications**
 - 🌍 Working languages: **Arabic · French · English**
 
 </td>
@@ -41,7 +43,9 @@ I'm a developer completing an internship at a company in Tunisia 🇹🇳. I bui
 | | |
 |---|---|
 | 🎯 **Focus** | Full-Stack Web |
-| 🧰 **Stack** | MERN |
+| 🏅 **Status** | Certified |
+| 🧰 **Stack** | MERN · Java |
+| 💻 **Also** | C · Python |
 | 🏗️ **Projects** | 5+ shipped |
 | 🗣️ **Languages** | AR · FR · EN |
 | 📍 **Based in** | Tunisia |
@@ -62,7 +66,9 @@ I'm a developer completing an internship at a company in Tunisia 🇹🇳. I bui
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vite&perline=6" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,java,c,py,php,laravel,vite&perline=9" alt="Languages"/>
+
+<!-- Java frameworks: once you tell me which ones (e.g. spring, hibernate, maven), add their icon ids to the list above. -->
 
 **Tools & Deployment**
 
